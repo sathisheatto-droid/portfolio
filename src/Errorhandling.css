@@ -1,0 +1,14 @@
+.leftHead {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.rightForm {
+    border: 1px solid grey;
+    background-color: beige;
+}
