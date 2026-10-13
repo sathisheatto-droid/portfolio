@@ -88,7 +88,7 @@ function App() {
       {/* <Counter /> */}
       <GetData />
 
-
+{/* This is to test the page is working or pull os working.*/}
 
 
 
